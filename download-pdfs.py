@@ -1,11 +1,5 @@
 #!/usr/bin/env python3
 
-import base64
-import os
-from re import A
-import requests
-import urllib
-
 from tqdm import tqdm
 from api import RightSignature
 
